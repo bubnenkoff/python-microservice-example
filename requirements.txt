@@ -1,0 +1,8 @@
+falcon
+#psycopg2
+psycopg2-binary
+SQLAlchemy
+dictalchemy
+psycopg2
+uWSGI
+python-logstash
